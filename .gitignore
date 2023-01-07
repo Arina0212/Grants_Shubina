@@ -1,5 +1,6 @@
 *.class
 *.log
+*.csv
 *.ctxt
 .mtj.tmp/
 *.db
